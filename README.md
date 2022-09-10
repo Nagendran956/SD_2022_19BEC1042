@@ -7,8 +7,8 @@ HOW TO INSTALL:
 Following are the commands should be entered in Command Line interface.
  git clone https://github.com/Nagendran956/SD_2022_19BEC1042.git
  cd Chess
- javac PlayChess.java
- java PlayChess
+ javac play.java
+ java play
  
 HOW TO PLAY:
 Each player can arrange their characters on their end in any order. They will have 5 pawns to start with and will need to deploy all of them at the start of the game.

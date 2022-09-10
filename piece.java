@@ -15,8 +15,7 @@ public abstract class Piece {
     protected int y;
     /** Translating integers to column input for outputting movies */
     protected static Map<Integer, String> cols = Map.of(0, "a", 1, "b",
-            2, "c", 3, "d", 4, "e", 5, "f",
-            6, "g", 7, "h");
+            2, "c", 3, "d", 4, "e", 5, "f");
     /** ArrayList containing all the legal moves a piece may make */
     protected ArrayList<Move> legalMoves;
 

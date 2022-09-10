@@ -1,15 +1,5 @@
 import java.util.Random;
 
-/**
- * Author: Dylan Boyling  
- * Description: This program is adapted from my own minimally viable chess game that I coded for an 
- * assignment. It displays a chess board in the console using text and provides options for the user 
- * to move a piece, view the moves a piece may make, or to quit the program.
- * Only move functionality for rook and pawn is implemented at the moment. 
- * Chess pieces are represented in a grid by the first letter of the piece name. The letter is uppercase if it is black, lowercase if it is white.
- * En passant and castling I will do if I have time : )
- * Would maybe like to make a GUI down the road and implement a basic AI with minimaxing.
- */
 
 /** This class launches the game of chess and handles users input */
 public class PlayChess {

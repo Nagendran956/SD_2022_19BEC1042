@@ -15,6 +15,7 @@ Each player can arrange their characters on their end in any order. They will ha
 The input for initial character positions will be taken as a list of character names, placing them from left to right on the starting lanes. Once this process is complete for both the players, they can start making moves.
 The application then takes move inputs from the players, alternating between the players, updating the game state in the process.
 
+ Sample of Chess board Display:
  
-
+![chessboard display](https://user-images.githubusercontent.com/67185457/189492000-60ae6c80-a541-4dbf-866d-7684496ca565.png)
 

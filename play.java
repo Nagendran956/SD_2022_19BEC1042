@@ -28,7 +28,7 @@ public class PlayChess {
 
         System.out.printf("%nWelcome to my command line interpretation of chess!%n"
                 + "White chess pieces are indicated in lower case, black pieces in upper case.%n"
-                + "P = pawn, R = rook, B = bishop, N = knight, Q = queen, K = king.%n"
+                + "P = pawn.%n
                 + "To move a piece, enter the piece's location follow by the location you wish to move it to.%n"
                 + "e.g. b2 b4 to move the piece at b2 to b4%n"
                 + "Enter ? to view legal moves or Q to quit.%n%n");

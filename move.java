@@ -11,8 +11,7 @@ public class Move {
     private int y;
     /** Used for translation column number into user friendly letters */
     private static Map<Integer, String> cols = Map.of(0, "a", 1, "b",
-            2, "c", 3, "d", 4, "e", 5, "f",
-            6, "g", 7, "h");
+            2, "c", 3, "d", 4, "e", 5, "f");
 
     /**
      * Creates a move a player may make on the board using the values a piece is
